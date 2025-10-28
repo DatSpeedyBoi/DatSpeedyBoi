@@ -1,4 +1,4 @@
-### 💫 Greetings!!
+# 💫 Greetings!!
 I want to learn more about game and web dev.<br>I am a first-year Computer Science student at the University of Regina<br>I have been coding for 3+ years<br>I like a challenge and just want to learn<br>
 
 
