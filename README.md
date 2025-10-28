@@ -1,23 +1,10 @@
-## Hi there 👋
+### Greetings, I am Preston
 
-My name is Preston and I use he/him
-I am a first year at the University of Regina studying Computer Science
-I have been coding for years and am interested in web development, game making, heck anything that has a challenge and code
-I am new to GitHub and want to collaborate on projects and enhance my knowledge
-You can reach me at prestontalbot.28@gmail.com
-I played football in highschool and was one of my leagues top defense players
-
-<!--
-**DatSpeedyBoi/DatSpeedyBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First year student at the University of Regina Computer Science <br/>
+I have been into programming for 3 years and really enjoy it<br/>
+I am interested in learning Web Development, as well as game development<br/>
+Currently still new to GitHub but I am hoping to collaborate with others on projects and enhance my knoweledge <br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatSpeedyBoi&layout=compact) <br/>
+<br/>
+![DatSpeedyBoi's Legacy](https://github-readme-stats.vercel.app/api?username=DatSpeedyBoi&show_icons=true&theme=merko)
