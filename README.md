@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Preston and I use he/him
-I am a first year at the University of Regina studying Computer Science \n
+I am a first year at the University of Regina studying Computer Science
 I have been coding for years and am interested in web development, game making, heck anything that has a challenge and code
 I am new to GitHub and want to collaborate on projects and enhance my knowledge
 You can reach me at prestontalbot.28@gmail.com
